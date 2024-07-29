@@ -53675,7 +53675,7 @@
             },
             "353": {
               "favorite": false,
-              "ascension": 3,
+              "ascension": 4,
               "skills": [
                 10,
                 10,
@@ -53765,7 +53765,7 @@
             },
             "357": {
               "favorite": false,
-              "ascension": 3,
+              "ascension": 4,
               "skills": [
                 10,
                 10,
@@ -53855,11 +53855,11 @@
             },
             "361": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                5,
+                5,
+                4
               ],
               "appendSkills": [
                 0,
@@ -84918,7 +84918,7 @@
             },
             "353": {
               "favorite": false,
-              "ascension": 3,
+              "ascension": 4,
               "skills": [
                 10,
                 10,
@@ -85008,7 +85008,7 @@
             },
             "357": {
               "favorite": false,
-              "ascension": 3,
+              "ascension": 4,
               "skills": [
                 10,
                 10,
@@ -85098,11 +85098,11 @@
             },
             "361": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                5,
+                5,
+                4
               ],
               "appendSkills": [
                 0,
