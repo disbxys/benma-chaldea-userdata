@@ -1,12 +1,12 @@
 {
   "version": 4,
-  "appVer": "2.5.12",
+  "appVer": "2.5.14",
   "curUserKey": 0,
   "users": [
     {
       "id": "b582834a-c46a-4be1-8554-2e23e8bf338e",
       "name": "default",
-      "isGirl": true,
+      "isGirl": false,
       "region": "na",
       "dupServantMapping": {},
       "servants": {
@@ -13223,11 +13223,11 @@
         "364": {
           "cur": {
             "favorite": true,
-            "ascension": 0,
+            "ascension": 4,
             "skills": [
-              1,
-              1,
-              1
+              6,
+              6,
+              6
             ],
             "appendSkills": [
               0,
@@ -13242,12 +13242,12 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 0,
-            "fouAtk3": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
             "bondLimit": 10,
-            "npLv": 0
+            "npLv": 5
           },
-          "priority": 2,
+          "priority": 1,
           "bond": 0,
           "equipCmdCodes": [
             null,
@@ -15171,6 +15171,222 @@
             25,
             25
           ]
+        },
+        "418": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "419": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "420": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "421": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "422": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "423": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
         }
       },
       "classBoards": {
@@ -24072,8 +24288,8 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 0,
-              "fouAtk3": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 5
             },
@@ -25348,9 +25564,187 @@
               "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 1
+            },
+            "418": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "419": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "420": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "421": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "422": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "423": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
             }
           },
           "limitEvents": {
+            "-8475343": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8420726": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-8417708": {
               "enabled": false,
               "rerunGrails": 0,
@@ -25488,6 +25882,23 @@
               "customItems": {}
             },
             "-8218594": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8180750": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -41841,7 +42252,92 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71465": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "71466": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71468": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71469": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71470": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71471": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -47094,6 +47590,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "80485": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80486": {
               "enabled": false,
               "rerunGrails": 0,
@@ -47129,6 +47642,40 @@
               "customItems": {}
             },
             "80489": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80491": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80492": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -47268,6 +47815,10 @@
               "questReward": false
             },
             "404": {
+              "fixedDrop": false,
+              "questReward": false
+            },
+            "405": {
               "fixedDrop": false,
               "questReward": false
             },
@@ -47889,6 +48440,13 @@
                 0,
                 0
               ]
+            },
+            "202409": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
             }
           },
           "classBoards": {
@@ -47988,7 +48546,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "3": {
               "favorite": false,
@@ -49932,6 +50490,30 @@
               "bondLimit": 10,
               "npLv": 1
             },
+            "83": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
             "84": {
               "favorite": false,
               "ascension": 4,
@@ -51517,7 +52099,79 @@
               "bondLimit": 10,
               "npLv": 5
             },
+            "149": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
             "150": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "151": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "152": {
               "favorite": false,
               "ascension": 0,
               "skills": [
@@ -51878,6 +52532,30 @@
               "npLv": 5
             },
             "167": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "168": {
               "favorite": false,
               "ascension": 0,
               "skills": [
@@ -53608,6 +54286,30 @@
               "appendSkills": [
                 0,
                 10,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "240": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
                 0,
                 0,
                 0
@@ -55852,6 +56554,30 @@
               "bondLimit": 10,
               "npLv": 1
             },
+            "333": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
             "334": {
               "favorite": false,
               "ascension": 0,
@@ -56580,11 +57306,11 @@
             },
             "364": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                6,
+                6,
+                6
               ],
               "appendSkills": [
                 0,
@@ -57708,6 +58434,54 @@
               "bondLimit": 10,
               "npLv": 1
             },
+            "411": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "412": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
             "413": {
               "favorite": false,
               "ascension": 0,
@@ -57803,9 +58577,262 @@
               "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 1
+            },
+            "417": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "418": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "419": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "420": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "421": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "422": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "423": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
             }
           },
           "limitEvents": {
+            "-8420726": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8417708": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8386517": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8364987": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8348141": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-8302528": {
               "enabled": false,
               "rerunGrails": 0,
@@ -57875,6 +58902,23 @@
               "customItems": {}
             },
             "-8218594": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-8180750": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -65711,6 +66755,40 @@
               "extraItems": {},
               "customItems": {}
             },
+            "20189": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "20190": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "30002": {
               "enabled": false,
               "rerunGrails": 0,
@@ -66511,6 +67589,23 @@
               "customItems": {}
             },
             "30054": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "30055": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -74024,6 +75119,176 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71457": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71458": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71459": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71460": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71461": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71462": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71463": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71464": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71465": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71466": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80000": {
               "enabled": false,
               "rerunGrails": 0,
@@ -79225,6 +80490,125 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80483": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80484": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80485": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80486": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80487": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80489": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80491": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -79345,6 +80729,10 @@
               "questReward": false
             },
             "404": {
+              "fixedDrop": false,
+              "questReward": false
+            },
+            "405": {
               "fixedDrop": false,
               "questReward": false
             },
@@ -79946,6 +81334,27 @@
                 0,
                 0
               ]
+            },
+            "202407": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
+            },
+            "202408": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
+            },
+            "202409": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
             }
           },
           "classBoards": {
@@ -80045,7 +81454,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "3": {
               "favorite": false,
@@ -88637,11 +90046,11 @@
             },
             "364": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                6,
+                6,
+                6
               ],
               "appendSkills": [
                 0,
@@ -111823,7 +113232,7 @@
       "curSvtPlanNo": 0,
       "items": {
         "-1": 736,
-        "1": 567199097,
+        "1": 553899097,
         "2": 2216,
         "3": 19125,
         "16": 55,
@@ -111842,27 +113251,27 @@
         "5001": 49,
         "5002": 51,
         "5003": 131,
-        "6001": 398,
-        "6002": 514,
-        "6003": 430,
-        "6004": 447,
-        "6005": 248,
-        "6006": 638,
-        "6007": 676,
-        "6101": 524,
-        "6102": 468,
-        "6103": 302,
-        "6104": 460,
-        "6105": 343,
-        "6106": 650,
-        "6107": 664,
+        "6001": 386,
+        "6002": 502,
+        "6003": 418,
+        "6004": 435,
+        "6005": 236,
+        "6006": 626,
+        "6007": 664,
+        "6101": 512,
+        "6102": 456,
+        "6103": 290,
+        "6104": 448,
+        "6105": 331,
+        "6106": 638,
+        "6107": 652,
         "6201": 343,
         "6202": 175,
         "6203": 282,
         "6204": 110,
-        "6205": 25,
-        "6206": 353,
-        "6207": 191,
+        "6205": 13,
+        "6206": 341,
+        "6207": 179,
         "6501": 107,
         "6502": 174,
         "6503": 612,
@@ -111887,7 +113296,7 @@
         "6523": 255,
         "6524": 182,
         "6525": 351,
-        "6526": 23,
+        "6526": 111,
         "6527": 667,
         "6528": 198,
         "6529": 235,
@@ -111931,9 +113340,9 @@
         "7107": 736,
         "7998": 7,
         "7999": 15,
-        "9570300": -60,
+        "9570300": -80,
         "9570400": 9,
-        "9670300": -79,
+        "9670300": -99,
         "9670400": 7,
         "9770400": 0,
         "9770500": 0,
@@ -112111,6 +113520,7 @@
         "94018806": 4,
         "94027507": 4,
         "94073606": -4,
+        "94074508": -4,
         "100040001": 505,
         "100050001": 505,
         "100080001": 100,
@@ -122414,6 +123824,336 @@
           "lv": 1,
           "limitCount": 0
         },
+        "2058": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2059": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2060": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2061": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2062": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2063": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2064": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2065": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2066": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2067": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2068": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2069": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2070": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2071": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2072": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2073": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2074": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2075": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2076": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2077": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2078": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2079": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2080": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2081": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2082": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2083": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2084": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2085": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2086": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2087": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2088": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2089": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2090": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2091": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2092": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2093": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2094": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2095": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2096": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2097": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2098": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2099": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2100": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2101": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2102": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2103": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2104": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2105": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2106": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2107": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2108": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2109": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2110": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2111": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2112": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2113": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2114": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2115": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2116": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2117": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2118": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2119": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2120": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2121": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2122": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2123": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
         "102019": {
           "status": 0,
           "lv": 1,
@@ -122440,6 +124180,11 @@
           "limitCount": 0
         },
         "102024": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "102025": {
           "status": 0,
           "lv": 1,
           "limitCount": 0
@@ -123218,8 +124963,8 @@
         "endDate": "2023-01-20T00:00:00.000",
         "accLogin": 803,
         "continuousLogin": 6,
-        "eventDateDelta": 730,
         "weeklyMission": true,
+        "campaignLoginBonus": true,
         "extraMissions": {},
         "minusPlannedBanner": true,
         "favoriteSummonOnly": false
