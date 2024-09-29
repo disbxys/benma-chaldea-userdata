@@ -15392,7 +15392,7 @@
         },
         "424": {
           "cur": {
-            "favorite": false,
+            "favorite": true,
             "ascension": 0,
             "skills": [
               1,
@@ -15410,10 +15410,10 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 20,
-            "fouAtk3": 20,
+            "fouHp3": 0,
+            "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 0
           },
           "priority": 1,
           "bond": 0,
@@ -25786,12 +25786,12 @@
               "npLv": 1
             },
             "424": {
-              "favorite": false,
-              "ascension": 0,
+              "favorite": true,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -25807,7 +25807,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 5
             },
             "425": {
               "favorite": false,
