@@ -1757,7 +1757,7 @@
             "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 2
           },
           "priority": 1,
           "bond": 0,
@@ -5350,7 +5350,7 @@
             "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
-            "npLv": 4
+            "npLv": 5
           },
           "priority": 1,
           "bond": 0,
@@ -7552,7 +7552,7 @@
             "fouHp3": 0,
             "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 2
           },
           "priority": 1,
           "bond": 0,
@@ -8006,7 +8006,7 @@
         },
         "220": {
           "cur": {
-            "favorite": false,
+            "favorite": true,
             "ascension": 0,
             "skills": [
               1,
@@ -8020,12 +8020,15 @@
               0,
               0
             ],
-            "costumes": {},
+            "costumes": {
+              "2300230": 0,
+              "2300240": 0
+            },
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 20,
-            "fouAtk3": 20,
+            "fouHp3": 0,
+            "fouAtk3": 0,
             "bondLimit": 10,
             "npLv": 1
           },
@@ -11039,7 +11042,7 @@
             "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
-            "npLv": 2
+            "npLv": 3
           },
           "priority": 1,
           "bond": 0,
@@ -11291,7 +11294,7 @@
             "fouHp3": 0,
             "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 2
           },
           "priority": 1,
           "bond": 0,
@@ -13550,7 +13553,7 @@
         },
         "373": {
           "cur": {
-            "favorite": false,
+            "favorite": true,
             "ascension": 0,
             "skills": [
               1,
@@ -13568,10 +13571,10 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 20,
-            "fouAtk3": 20,
+            "fouHp3": 0,
+            "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 0
           },
           "priority": 1,
           "bond": 0,
@@ -14018,7 +14021,7 @@
         },
         "386": {
           "cur": {
-            "favorite": false,
+            "favorite": true,
             "ascension": 0,
             "skills": [
               1,
@@ -14036,10 +14039,10 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 20,
-            "fouAtk3": 20,
+            "fouHp3": 0,
+            "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 0
           },
           "priority": 1,
           "bond": 0,
@@ -15497,6 +15500,80 @@
             null
           ],
           "cmdCardStrengthen": null
+        },
+        "427": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
+        },
+        "428": {
+          "cur": {
+            "favorite": true,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {
+              "305630": 0
+            },
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 0,
+            "fouAtk3": 0,
+            "bondLimit": 10,
+            "npLv": 0
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null
         }
       },
       "classBoards": {
@@ -16717,7 +16794,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "48": {
               "favorite": true,
@@ -19122,7 +19199,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 4
+              "npLv": 5
             },
             "147": {
               "favorite": false,
@@ -20592,7 +20669,7 @@
               "fouHp3": 0,
               "fouAtk3": 0,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "208": {
               "favorite": false,
@@ -20890,12 +20967,12 @@
               "npLv": 5
             },
             "220": {
-              "favorite": false,
-              "ascension": 0,
+              "favorite": true,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -20904,12 +20981,15 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2300230": 1,
+                "2300240": 1
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 20,
-              "fouAtk3": 20,
+              "fouHp3": 0,
+              "fouAtk3": 0,
               "bondLimit": 10,
               "npLv": 1
             },
@@ -22915,19 +22995,19 @@
               ],
               "appendSkills": [
                 10,
+                0,
+                0,
                 10,
-                0,
-                0,
                 0
               ],
               "costumes": {},
-              "grail": 5,
+              "grail": 15,
               "fouHp": 50,
               "fouAtk": 50,
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 2
+              "npLv": 3
             },
             "304": {
               "favorite": true,
@@ -23095,7 +23175,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "311": {
               "favorite": true,
@@ -24598,12 +24678,12 @@
               "npLv": 1
             },
             "373": {
-              "favorite": false,
-              "ascension": 0,
+              "favorite": true,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -24619,7 +24699,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "374": {
               "favorite": false,
@@ -24910,12 +24990,12 @@
               "npLv": 1
             },
             "386": {
-              "favorite": false,
-              "ascension": 0,
+              "favorite": true,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                10,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -24931,7 +25011,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "387": {
               "favorite": false,
@@ -25892,6 +25972,56 @@
               "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 1
+            },
+            "427": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
+            },
+            "428": {
+              "favorite": true,
+              "ascension": 4,
+              "skills": [
+                9,
+                9,
+                9
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {
+                "305630": 1
+              },
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 5
             }
           },
           "limitEvents": {
@@ -34175,6 +34305,23 @@
               "customItems": {}
             },
             "20196": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "20197": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -43116,6 +43263,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71488": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "71490": {
               "enabled": false,
               "rerunGrails": 0,
@@ -48539,6 +48703,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "80494": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80495": {
               "enabled": false,
               "rerunGrails": 0,
@@ -53712,7 +53893,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 4
+              "npLv": 5
             },
             "147": {
               "favorite": false,
@@ -55182,7 +55363,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "208": {
               "favorite": false,
@@ -55494,7 +55675,10 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2300230": 0,
+                "2300240": 0
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -57685,7 +57869,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "311": {
               "favorite": false,
@@ -86816,7 +87000,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 4
+              "npLv": 5
             },
             "147": {
               "favorite": false,
@@ -88190,7 +88374,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "208": {
               "favorite": false,
@@ -88502,7 +88686,10 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2300230": 0,
+                "2300240": 0
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -90669,7 +90856,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "311": {
               "favorite": false,
@@ -115116,116 +115303,116 @@
       "sameEventPlan": false,
       "curSvtPlanNo": 0,
       "items": {
-        "-1": 1609,
+        "-1": 1613,
         "1": 859001204,
-        "2": 2271,
-        "3": 18278,
-        "16": 337,
+        "2": 2084,
+        "3": 19441,
+        "16": 22,
         "17": 1,
-        "18": 74,
+        "18": 75,
         "46": 897,
-        "100": 508,
-        "101": 675,
-        "102": 1097,
-        "103": 1150,
-        "104": 178,
-        "1000": 16,
+        "100": 504,
+        "101": 690,
+        "102": 1005,
+        "103": 1128,
+        "104": 32,
+        "1000": 14,
         "2000": 213,
-        "4001": 45,
-        "5000": 49,
-        "5001": 47,
-        "5002": 51,
-        "5003": 134,
-        "6001": 200,
-        "6002": 409,
-        "6003": 323,
-        "6004": 309,
-        "6005": 37,
-        "6006": 309,
-        "6007": 471,
-        "6101": 374,
-        "6102": 429,
-        "6103": 251,
-        "6104": 365,
-        "6105": 330,
-        "6106": 407,
-        "6107": 526,
-        "6201": 290,
-        "6202": 124,
-        "6203": 270,
-        "6204": 67,
-        "6205": 51,
-        "6206": 272,
-        "6207": 131,
-        "6501": 143,
-        "6502": 344,
-        "6503": 699,
-        "6505": 1031,
-        "6506": 186,
+        "4001": 22,
+        "5000": 50,
+        "5001": 48,
+        "5002": 52,
+        "5003": 137,
+        "6001": 253,
+        "6002": 401,
+        "6003": 332,
+        "6004": 323,
+        "6005": 45,
+        "6006": 317,
+        "6007": 479,
+        "6101": 434,
+        "6102": 491,
+        "6103": 261,
+        "6104": 382,
+        "6105": 347,
+        "6106": 415,
+        "6107": 535,
+        "6201": 274,
+        "6202": 182,
+        "6203": 276,
+        "6204": 75,
+        "6205": 58,
+        "6206": 276,
+        "6207": 136,
+        "6501": 163,
+        "6502": 367,
+        "6503": 711,
+        "6505": 1033,
+        "6506": 180,
         "6507": 212,
         "6508": 542,
-        "6509": 326,
-        "6510": 478,
-        "6511": 477,
+        "6509": 328,
+        "6510": 499,
+        "6511": 479,
         "6512": 261,
-        "6513": 245,
-        "6514": 218,
-        "6515": 337,
-        "6516": 337,
-        "6517": 327,
-        "6518": 242,
+        "6513": 325,
+        "6514": 226,
+        "6515": 358,
+        "6516": 338,
+        "6517": 337,
+        "6518": 253,
         "6519": 353,
         "6520": 313,
         "6521": 292,
         "6522": 800,
-        "6523": 277,
-        "6524": 27,
-        "6525": 374,
-        "6526": 101,
-        "6527": 678,
-        "6528": 273,
+        "6523": 297,
+        "6524": 20,
+        "6525": 376,
+        "6526": 79,
+        "6527": 691,
+        "6528": 322,
         "6529": 215,
-        "6530": 637,
+        "6530": 647,
         "6531": 388,
-        "6532": 274,
-        "6533": 158,
-        "6534": 618,
-        "6535": 257,
-        "6536": 291,
-        "6537": 249,
-        "6538": 522,
+        "6532": 234,
+        "6533": 170,
+        "6534": 621,
+        "6535": 233,
+        "6536": 299,
+        "6537": 269,
+        "6538": 482,
         "6539": 497,
-        "6540": 301,
-        "6541": 375,
-        "6542": 189,
-        "6543": 270,
+        "6540": 366,
+        "6541": 378,
+        "6542": 195,
+        "6543": 246,
         "6544": 384,
         "6545": 467,
-        "6546": 179,
-        "6547": 165,
-        "6548": 107,
-        "6549": 130,
-        "6550": 218,
-        "6551": 306,
-        "6552": 271,
+        "6546": 184,
+        "6547": 185,
+        "6548": 112,
+        "6549": 378,
+        "6550": 245,
+        "6551": 309,
+        "6552": 304,
         "6554": 1,
-        "6999": 123,
-        "7001": 360,
-        "7002": 383,
-        "7003": 422,
+        "6999": 125,
+        "7001": 380,
+        "7002": 403,
+        "7003": 442,
         "7004": 451,
-        "7005": 619,
+        "7005": 624,
         "7006": 378,
-        "7007": 779,
-        "7101": 682,
-        "7102": 558,
-        "7103": 739,
-        "7104": 520,
-        "7105": 696,
-        "7106": 552,
-        "7107": 813,
+        "7007": 799,
+        "7101": 734,
+        "7102": 631,
+        "7103": 784,
+        "7104": 523,
+        "7105": 703,
+        "7106": 553,
+        "7107": 849,
         "7998": 7,
-        "7999": 8,
+        "7999": 9,
         "9570300": -100,
         "9570400": 9,
         "9670300": -139,
@@ -126101,6 +126288,36 @@
           "limitCount": 0
         },
         "2135": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2136": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2137": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2138": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2139": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2140": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2141": {
           "status": 0,
           "lv": 1,
           "limitCount": 0
