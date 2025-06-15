@@ -148,7 +148,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 18,
+            "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
             "npLv": 1
@@ -952,7 +952,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 17,
+            "fouHp3": 20,
             "fouAtk3": 2,
             "bondLimit": 10,
             "npLv": 5
@@ -1248,7 +1248,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 5,
+            "fouHp3": 20,
             "fouAtk3": 4,
             "bondLimit": 10,
             "npLv": 5
@@ -1790,7 +1790,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 2,
+            "fouHp3": 20,
             "fouAtk3": 3,
             "bondLimit": 10,
             "npLv": 2
@@ -3682,7 +3682,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 0,
+            "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
             "npLv": 3
@@ -11083,7 +11083,7 @@
             "fouHp": 0,
             "fouAtk": 0,
             "fouHp3": 20,
-            "fouAtk3": 5,
+            "fouAtk3": 20,
             "bondLimit": 10,
             "npLv": 5
           },
@@ -11298,8 +11298,8 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 0,
-            "fouAtk3": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
             "bondLimit": 10,
             "npLv": 2
           },
@@ -11448,7 +11448,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 4,
+            "fouHp3": 20,
             "fouAtk3": 4,
             "bondLimit": 10,
             "npLv": 1
@@ -11628,7 +11628,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 9,
+            "fouHp3": 20,
             "fouAtk3": 7,
             "bondLimit": 10,
             "npLv": 1
@@ -12852,7 +12852,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 0,
+            "fouHp3": 20,
             "fouAtk3": 0,
             "bondLimit": 10,
             "npLv": 1
@@ -12925,7 +12925,7 @@
             },
             "grail": 0,
             "fouHp": 50,
-            "fouAtk": 42,
+            "fouAtk": 46,
             "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
@@ -13000,7 +13000,7 @@
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
-            "fouHp3": 0,
+            "fouHp3": 20,
             "fouAtk3": 0,
             "bondLimit": 10,
             "npLv": 1
@@ -16658,7 +16658,7 @@
               "appendSkills": [
                 0,
                 1,
-                4,
+                9,
                 0,
                 0
               ],
@@ -16927,7 +16927,7 @@
               ],
               "appendSkills": [
                 0,
-                1,
+                0,
                 0,
                 0,
                 0
@@ -18566,7 +18566,7 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 0,
+              "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 3
@@ -21049,7 +21049,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 9,
                 0,
                 0
@@ -21058,8 +21058,8 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 20,
-              "fouAtk3": 20,
+              "fouHp3": 0,
+              "fouAtk3": 0,
               "bondLimit": 10,
               "npLv": 5
             },
@@ -23764,7 +23764,7 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 4,
+              "fouHp3": 20,
               "fouAtk3": 4,
               "bondLimit": 10,
               "npLv": 1
@@ -24700,7 +24700,7 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 0,
+              "fouHp3": 20,
               "fouAtk3": 0,
               "bondLimit": 10,
               "npLv": 1
@@ -24800,7 +24800,7 @@
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
-              "fouHp3": 0,
+              "fouHp3": 20,
               "fouAtk3": 0,
               "bondLimit": 10,
               "npLv": 1
@@ -119500,7 +119500,7 @@
       "curSvtPlanNo": 0,
       "items": {
         "-1": 1729,
-        "1": 466070967,
+        "1": 1009104181,
         "2": 1727,
         "3": 22974,
         "16": 245,
@@ -119553,7 +119553,7 @@
         "6510": 542,
         "6511": 539,
         "6512": 543,
-        "6513": 316,
+        "6513": 376,
         "6514": 287,
         "6515": 240,
         "6516": 589,
