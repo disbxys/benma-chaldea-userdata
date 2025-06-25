@@ -16095,6 +16095,10 @@
         "10001": {
           "unlockedSquares": [],
           "enhancedSquares": []
+        },
+        "10007": {
+          "unlockedSquares": [],
+          "enhancedSquares": []
         }
       },
       "plans": [
@@ -26831,6 +26835,23 @@
             }
           },
           "limitEvents": {
+            "-9188129": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-9149734": {
               "enabled": false,
               "rerunGrails": 0,
@@ -36607,6 +36628,23 @@
               "customItems": {}
             },
             "20252": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "20253": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -46789,7 +46827,75 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71562": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71563": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71564": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "71565": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71566": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -52942,6 +53048,23 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80551": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -54501,6 +54624,10 @@
               ]
             },
             "10001": {
+              "unlockedSquares": [],
+              "enhancedSquares": []
+            },
+            "10007": {
               "unlockedSquares": [],
               "enhancedSquares": []
             }
@@ -63134,7 +63261,7 @@
               },
               "grail": 0,
               "fouHp": 50,
-              "fouAtk": 42,
+              "fouAtk": 46,
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
@@ -96108,7 +96235,7 @@
               },
               "grail": 0,
               "fouHp": 50,
-              "fouAtk": 42,
+              "fouAtk": 46,
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
