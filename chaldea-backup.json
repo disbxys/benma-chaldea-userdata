@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "appVer": "2.5.20",
+  "appVer": "2.5.19",
   "curUserKey": 0,
   "users": [
     {
@@ -44,8 +44,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "1": {
           "cur": {
@@ -87,8 +86,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "2": {
           "cur": {
@@ -126,8 +124,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "3": {
           "cur": {
@@ -165,8 +162,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "4": {
           "cur": {
@@ -202,8 +198,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "5": {
           "cur": {
@@ -239,8 +234,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "6": {
           "cur": {
@@ -278,8 +272,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "7": {
           "cur": {
@@ -315,8 +308,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "8": {
           "cur": {
@@ -352,8 +344,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "9": {
           "cur": {
@@ -389,8 +380,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "10": {
           "cur": {
@@ -426,8 +416,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "11": {
           "cur": {
@@ -465,8 +454,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "12": {
           "cur": {
@@ -502,8 +490,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "13": {
           "cur": {
@@ -541,8 +528,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "14": {
           "cur": {
@@ -578,8 +564,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "15": {
           "cur": {
@@ -617,8 +602,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "16": {
           "cur": {
@@ -654,8 +638,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "17": {
           "cur": {
@@ -691,8 +674,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "18": {
           "cur": {
@@ -728,8 +710,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "19": {
           "cur": {
@@ -765,8 +746,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "20": {
           "cur": {
@@ -802,8 +782,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "21": {
           "cur": {
@@ -839,8 +818,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "22": {
           "cur": {
@@ -876,8 +854,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "23": {
           "cur": {
@@ -915,8 +892,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "24": {
           "cur": {
@@ -952,8 +928,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "25": {
           "cur": {
@@ -991,8 +966,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "26": {
           "cur": {
@@ -1028,8 +1002,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "27": {
           "cur": {
@@ -1073,8 +1046,7 @@
             0,
             0,
             0
-          ],
-          "grandSvt": false
+          ]
         },
         "28": {
           "cur": {
@@ -1110,8 +1082,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "29": {
           "cur": {
@@ -1147,8 +1118,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "30": {
           "cur": {
@@ -1184,8 +1154,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "31": {
           "cur": {
@@ -1221,8 +1190,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "32": {
           "cur": {
@@ -1258,8 +1226,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "33": {
           "cur": {
@@ -1295,8 +1262,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "34": {
           "cur": {
@@ -1332,8 +1298,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "35": {
           "cur": {
@@ -1369,8 +1334,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "36": {
           "cur": {
@@ -1406,8 +1370,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "37": {
           "cur": {
@@ -1443,8 +1406,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "38": {
           "cur": {
@@ -1480,8 +1442,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "39": {
           "cur": {
@@ -1517,8 +1478,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "40": {
           "cur": {
@@ -1554,8 +1514,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "41": {
           "cur": {
@@ -1591,8 +1550,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "42": {
           "cur": {
@@ -1628,8 +1586,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "43": {
           "cur": {
@@ -1667,8 +1624,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "44": {
           "cur": {
@@ -1704,8 +1660,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "45": {
           "cur": {
@@ -1741,8 +1696,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "46": {
           "cur": {
@@ -1778,8 +1732,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "47": {
           "cur": {
@@ -1815,8 +1768,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "48": {
           "cur": {
@@ -1852,8 +1804,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "49": {
           "cur": {
@@ -1889,8 +1840,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "50": {
           "cur": {
@@ -1926,8 +1876,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "51": {
           "cur": {
@@ -1963,8 +1912,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "52": {
           "cur": {
@@ -2000,8 +1948,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "53": {
           "cur": {
@@ -2037,8 +1984,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "54": {
           "cur": {
@@ -2074,8 +2020,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "55": {
           "cur": {
@@ -2111,8 +2056,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "56": {
           "cur": {
@@ -2150,8 +2094,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "57": {
           "cur": {
@@ -2187,8 +2130,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "58": {
           "cur": {
@@ -2226,8 +2168,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "59": {
           "cur": {
@@ -2263,8 +2204,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "60": {
           "cur": {
@@ -2300,8 +2240,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "61": {
           "cur": {
@@ -2337,8 +2276,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "62": {
           "cur": {
@@ -2374,8 +2312,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "63": {
           "cur": {
@@ -2411,8 +2348,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "64": {
           "cur": {
@@ -2448,8 +2384,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "65": {
           "cur": {
@@ -2485,8 +2420,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "66": {
           "cur": {
@@ -2522,8 +2456,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "67": {
           "cur": {
@@ -2559,8 +2492,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "68": {
           "cur": {
@@ -2596,8 +2528,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "69": {
           "cur": {
@@ -2633,8 +2564,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "70": {
           "cur": {
@@ -2670,8 +2600,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "71": {
           "cur": {
@@ -2707,8 +2636,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "72": {
           "cur": {
@@ -2744,8 +2672,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "73": {
           "cur": {
@@ -2781,8 +2708,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "74": {
           "cur": {
@@ -2818,8 +2744,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "75": {
           "cur": {
@@ -2855,8 +2780,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "76": {
           "cur": {
@@ -2895,8 +2819,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "77": {
           "cur": {
@@ -2932,8 +2855,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "78": {
           "cur": {
@@ -2969,8 +2891,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "79": {
           "cur": {
@@ -3008,8 +2929,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "80": {
           "cur": {
@@ -3045,8 +2965,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "81": {
           "cur": {
@@ -3082,8 +3001,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "82": {
           "cur": {
@@ -3119,8 +3037,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "83": {
           "cur": {
@@ -3156,8 +3073,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "84": {
           "cur": {
@@ -3195,8 +3111,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "85": {
           "cur": {
@@ -3236,8 +3151,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "86": {
           "cur": {
@@ -3273,8 +3187,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "87": {
           "cur": {
@@ -3310,8 +3223,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "88": {
           "cur": {
@@ -3347,8 +3259,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "89": {
           "cur": {
@@ -3384,8 +3295,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "90": {
           "cur": {
@@ -3421,8 +3331,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "91": {
           "cur": {
@@ -3462,8 +3371,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "92": {
           "cur": {
@@ -3499,8 +3407,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "93": {
           "cur": {
@@ -3536,8 +3443,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "94": {
           "cur": {
@@ -3575,8 +3481,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "95": {
           "cur": {
@@ -3612,8 +3517,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "96": {
           "cur": {
@@ -3649,8 +3553,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "97": {
           "cur": {
@@ -3686,8 +3589,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "98": {
           "cur": {
@@ -3723,8 +3625,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "99": {
           "cur": {
@@ -3760,8 +3661,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "100": {
           "cur": {
@@ -3799,8 +3699,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "101": {
           "cur": {
@@ -3836,8 +3735,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "102": {
           "cur": {
@@ -3873,8 +3771,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "103": {
           "cur": {
@@ -3910,8 +3807,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "104": {
           "cur": {
@@ -3947,8 +3843,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "105": {
           "cur": {
@@ -3984,8 +3879,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "106": {
           "cur": {
@@ -4023,8 +3917,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "107": {
           "cur": {
@@ -4060,8 +3953,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "108": {
           "cur": {
@@ -4097,8 +3989,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "109": {
           "cur": {
@@ -4134,8 +4025,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "110": {
           "cur": {
@@ -4171,8 +4061,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "111": {
           "cur": {
@@ -4208,8 +4097,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "112": {
           "cur": {
@@ -4245,8 +4133,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "113": {
           "cur": {
@@ -4282,8 +4169,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "114": {
           "cur": {
@@ -4319,8 +4205,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "115": {
           "cur": {
@@ -4356,8 +4241,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "116": {
           "cur": {
@@ -4393,8 +4277,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "117": {
           "cur": {
@@ -4432,8 +4315,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "118": {
           "cur": {
@@ -4469,8 +4351,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "119": {
           "cur": {
@@ -4506,8 +4387,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "120": {
           "cur": {
@@ -4545,8 +4425,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "121": {
           "cur": {
@@ -4582,8 +4461,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "122": {
           "cur": {
@@ -4619,8 +4497,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "123": {
           "cur": {
@@ -4658,8 +4535,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "124": {
           "cur": {
@@ -4697,8 +4573,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "125": {
           "cur": {
@@ -4734,8 +4609,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "126": {
           "cur": {
@@ -4773,8 +4647,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "127": {
           "cur": {
@@ -4810,8 +4683,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "128": {
           "cur": {
@@ -4847,8 +4719,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "129": {
           "cur": {
@@ -4884,8 +4755,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "130": {
           "cur": {
@@ -4921,8 +4791,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "131": {
           "cur": {
@@ -4958,8 +4827,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "132": {
           "cur": {
@@ -4995,8 +4863,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "133": {
           "cur": {
@@ -5032,8 +4899,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "134": {
           "cur": {
@@ -5069,8 +4935,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "135": {
           "cur": {
@@ -5106,8 +4971,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "136": {
           "cur": {
@@ -5145,8 +5009,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "137": {
           "cur": {
@@ -5182,8 +5045,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "138": {
           "cur": {
@@ -5219,8 +5081,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "139": {
           "cur": {
@@ -5256,8 +5117,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "140": {
           "cur": {
@@ -5293,8 +5153,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "141": {
           "cur": {
@@ -5330,8 +5189,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "142": {
           "cur": {
@@ -5367,8 +5225,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "143": {
           "cur": {
@@ -5404,8 +5261,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "144": {
           "cur": {
@@ -5441,8 +5297,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "145": {
           "cur": {
@@ -5478,8 +5333,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "146": {
           "cur": {
@@ -5515,8 +5369,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "147": {
           "cur": {
@@ -5552,8 +5405,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "148": {
           "cur": {
@@ -5589,8 +5441,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "149": {
           "cur": {
@@ -5626,8 +5477,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "150": {
           "cur": {
@@ -5663,8 +5513,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "151": {
           "cur": {
@@ -5700,8 +5549,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "152": {
           "cur": {
@@ -5737,8 +5585,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "153": {
           "cur": {
@@ -5774,8 +5621,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "154": {
           "cur": {
@@ -5811,8 +5657,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "155": {
           "cur": {
@@ -5848,8 +5693,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "156": {
           "cur": {
@@ -5885,8 +5729,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "157": {
           "cur": {
@@ -5922,8 +5765,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "158": {
           "cur": {
@@ -5959,8 +5801,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "159": {
           "cur": {
@@ -5996,8 +5837,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "160": {
           "cur": {
@@ -6033,8 +5873,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "161": {
           "cur": {
@@ -6070,8 +5909,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "162": {
           "cur": {
@@ -6107,8 +5945,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "163": {
           "cur": {
@@ -6144,8 +5981,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "164": {
           "cur": {
@@ -6181,8 +6017,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "165": {
           "cur": {
@@ -6218,8 +6053,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "166": {
           "cur": {
@@ -6255,8 +6089,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "167": {
           "cur": {
@@ -6292,8 +6125,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "168": {
           "cur": {
@@ -6329,8 +6161,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "169": {
           "cur": {
@@ -6366,8 +6197,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "170": {
           "cur": {
@@ -6403,8 +6233,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "171": {
           "cur": {
@@ -6442,8 +6271,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "172": {
           "cur": {
@@ -6479,8 +6307,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "173": {
           "cur": {
@@ -6516,8 +6343,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "174": {
           "cur": {
@@ -6555,8 +6381,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "175": {
           "cur": {
@@ -6592,8 +6417,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "176": {
           "cur": {
@@ -6629,8 +6453,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "177": {
           "cur": {
@@ -6666,8 +6489,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "178": {
           "cur": {
@@ -6703,8 +6525,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "179": {
           "cur": {
@@ -6740,8 +6561,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "180": {
           "cur": {
@@ -6777,8 +6597,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "181": {
           "cur": {
@@ -6814,8 +6633,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "182": {
           "cur": {
@@ -6851,8 +6669,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "183": {
           "cur": {
@@ -6890,8 +6707,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "184": {
           "cur": {
@@ -6927,8 +6743,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "185": {
           "cur": {
@@ -6964,8 +6779,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "186": {
           "cur": {
@@ -7001,8 +6815,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "187": {
           "cur": {
@@ -7038,8 +6851,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "188": {
           "cur": {
@@ -7075,8 +6887,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "189": {
           "cur": {
@@ -7112,8 +6923,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "190": {
           "cur": {
@@ -7149,8 +6959,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "191": {
           "cur": {
@@ -7186,8 +6995,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "192": {
           "cur": {
@@ -7223,8 +7031,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "193": {
           "cur": {
@@ -7260,8 +7067,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "194": {
           "cur": {
@@ -7297,8 +7103,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "195": {
           "cur": {
@@ -7334,8 +7139,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "196": {
           "cur": {
@@ -7371,8 +7175,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "197": {
           "cur": {
@@ -7408,8 +7211,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "198": {
           "cur": {
@@ -7445,8 +7247,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "199": {
           "cur": {
@@ -7482,8 +7283,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "200": {
           "cur": {
@@ -7519,8 +7319,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "201": {
           "cur": {
@@ -7556,8 +7355,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "202": {
           "cur": {
@@ -7593,8 +7391,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "203": {
           "cur": {
@@ -7630,8 +7427,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "204": {
           "cur": {
@@ -7667,8 +7463,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "205": {
           "cur": {
@@ -7704,8 +7499,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "206": {
           "cur": {
@@ -7741,8 +7535,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "207": {
           "cur": {
@@ -7778,8 +7571,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "208": {
           "cur": {
@@ -7815,8 +7607,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "209": {
           "cur": {
@@ -7854,8 +7645,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "210": {
           "cur": {
@@ -7894,8 +7684,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "211": {
           "cur": {
@@ -7931,8 +7720,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "212": {
           "cur": {
@@ -7968,8 +7756,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "213": {
           "cur": {
@@ -8007,8 +7794,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "214": {
           "cur": {
@@ -8044,8 +7830,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "215": {
           "cur": {
@@ -8081,8 +7866,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "216": {
           "cur": {
@@ -8118,8 +7902,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "217": {
           "cur": {
@@ -8155,8 +7938,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "218": {
           "cur": {
@@ -8192,8 +7974,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "219": {
           "cur": {
@@ -8229,8 +8010,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "220": {
           "cur": {
@@ -8269,8 +8049,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "221": {
           "cur": {
@@ -8306,8 +8085,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "222": {
           "cur": {
@@ -8343,8 +8121,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "223": {
           "cur": {
@@ -8380,8 +8157,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "224": {
           "cur": {
@@ -8417,8 +8193,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "225": {
           "cur": {
@@ -8454,8 +8229,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "226": {
           "cur": {
@@ -8491,8 +8265,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "227": {
           "cur": {
@@ -8530,8 +8303,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "228": {
           "cur": {
@@ -8567,8 +8339,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "229": {
           "cur": {
@@ -8604,8 +8375,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "230": {
           "cur": {
@@ -8641,8 +8411,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "231": {
           "cur": {
@@ -8678,8 +8447,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "232": {
           "cur": {
@@ -8715,8 +8483,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "233": {
           "cur": {
@@ -8755,8 +8522,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "234": {
           "cur": {
@@ -8792,8 +8558,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "235": {
           "cur": {
@@ -8829,8 +8594,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "236": {
           "cur": {
@@ -8866,8 +8630,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "237": {
           "cur": {
@@ -8903,8 +8666,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "238": {
           "cur": {
@@ -8940,8 +8702,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "239": {
           "cur": {
@@ -8977,8 +8738,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "240": {
           "cur": {
@@ -9014,8 +8774,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "241": {
           "cur": {
@@ -9051,8 +8810,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "242": {
           "cur": {
@@ -9088,8 +8846,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "243": {
           "cur": {
@@ -9125,8 +8882,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "244": {
           "cur": {
@@ -9162,8 +8918,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "245": {
           "cur": {
@@ -9199,8 +8954,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "246": {
           "cur": {
@@ -9236,8 +8990,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "247": {
           "cur": {
@@ -9276,8 +9029,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "248": {
           "cur": {
@@ -9313,8 +9065,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "249": {
           "cur": {
@@ -9352,8 +9103,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "250": {
           "cur": {
@@ -9389,8 +9139,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "251": {
           "cur": {
@@ -9426,8 +9175,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "252": {
           "cur": {
@@ -9465,8 +9213,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "253": {
           "cur": {
@@ -9504,8 +9251,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "254": {
           "cur": {
@@ -9541,8 +9287,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "255": {
           "cur": {
@@ -9578,8 +9323,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "256": {
           "cur": {
@@ -9615,8 +9359,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "257": {
           "cur": {
@@ -9652,8 +9395,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "258": {
           "cur": {
@@ -9689,8 +9431,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "259": {
           "cur": {
@@ -9726,8 +9467,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "260": {
           "cur": {
@@ -9763,8 +9503,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "261": {
           "cur": {
@@ -9802,8 +9541,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "262": {
           "cur": {
@@ -9839,8 +9577,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "263": {
           "cur": {
@@ -9876,8 +9613,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "264": {
           "cur": {
@@ -9913,8 +9649,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "265": {
           "cur": {
@@ -9950,8 +9685,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "266": {
           "cur": {
@@ -9989,8 +9723,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "267": {
           "cur": {
@@ -10026,8 +9759,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "268": {
           "cur": {
@@ -10065,8 +9797,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "269": {
           "cur": {
@@ -10102,8 +9833,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "270": {
           "cur": {
@@ -10139,8 +9869,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "271": {
           "cur": {
@@ -10176,8 +9905,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "272": {
           "cur": {
@@ -10213,8 +9941,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "273": {
           "cur": {
@@ -10252,8 +9979,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "274": {
           "cur": {
@@ -10289,8 +10015,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "275": {
           "cur": {
@@ -10326,8 +10051,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "276": {
           "cur": {
@@ -10363,8 +10087,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "277": {
           "cur": {
@@ -10400,8 +10123,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "278": {
           "cur": {
@@ -10437,8 +10159,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "279": {
           "cur": {
@@ -10474,8 +10195,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "280": {
           "cur": {
@@ -10511,8 +10231,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "281": {
           "cur": {
@@ -10548,8 +10267,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "282": {
           "cur": {
@@ -10585,8 +10303,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "283": {
           "cur": {
@@ -10622,8 +10339,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "284": {
           "cur": {
@@ -10659,8 +10375,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "285": {
           "cur": {
@@ -10696,8 +10411,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "286": {
           "cur": {
@@ -10733,8 +10447,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "287": {
           "cur": {
@@ -10770,8 +10483,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "288": {
           "cur": {
@@ -10807,8 +10519,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "289": {
           "cur": {
@@ -10844,8 +10555,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "290": {
           "cur": {
@@ -10881,8 +10591,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "291": {
           "cur": {
@@ -10918,8 +10627,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "292": {
           "cur": {
@@ -10955,8 +10663,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "293": {
           "cur": {
@@ -10992,8 +10699,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "294": {
           "cur": {
@@ -11031,8 +10737,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "295": {
           "cur": {
@@ -11068,8 +10773,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "296": {
           "cur": {
@@ -11107,8 +10811,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "297": {
           "cur": {
@@ -11144,8 +10847,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "298": {
           "cur": {
@@ -11181,8 +10883,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "299": {
           "cur": {
@@ -11218,8 +10919,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "300": {
           "cur": {
@@ -11255,8 +10955,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "301": {
           "cur": {
@@ -11292,8 +10991,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "302": {
           "cur": {
@@ -11329,8 +11027,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "303": {
           "cur": {
@@ -11366,8 +11063,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "304": {
           "cur": {
@@ -11403,8 +11099,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "305": {
           "cur": {
@@ -11440,8 +11135,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "306": {
           "cur": {
@@ -11477,8 +11171,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "307": {
           "cur": {
@@ -11514,8 +11207,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "308": {
           "cur": {
@@ -11551,8 +11243,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "309": {
           "cur": {
@@ -11588,8 +11279,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "310": {
           "cur": {
@@ -11625,8 +11315,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "311": {
           "cur": {
@@ -11662,8 +11351,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "312": {
           "cur": {
@@ -11703,8 +11391,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "313": {
           "cur": {
@@ -11742,8 +11429,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "314": {
           "cur": {
@@ -11779,8 +11465,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "315": {
           "cur": {
@@ -11816,8 +11501,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "316": {
           "cur": {
@@ -11853,8 +11537,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "317": {
           "cur": {
@@ -11890,8 +11573,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "318": {
           "cur": {
@@ -11927,8 +11609,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "319": {
           "cur": {
@@ -11964,8 +11645,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "320": {
           "cur": {
@@ -12001,8 +11681,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "321": {
           "cur": {
@@ -12038,8 +11717,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "322": {
           "cur": {
@@ -12075,8 +11753,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "323": {
           "cur": {
@@ -12112,8 +11789,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "324": {
           "cur": {
@@ -12149,8 +11825,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "325": {
           "cur": {
@@ -12186,8 +11861,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "326": {
           "cur": {
@@ -12223,8 +11897,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "327": {
           "cur": {
@@ -12260,8 +11933,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "328": {
           "cur": {
@@ -12297,8 +11969,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "329": {
           "cur": {
@@ -12334,8 +12005,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "330": {
           "cur": {
@@ -12371,8 +12041,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "331": {
           "cur": {
@@ -12408,8 +12077,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "332": {
           "cur": {
@@ -12445,8 +12113,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "333": {
           "cur": {
@@ -12482,8 +12149,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "334": {
           "cur": {
@@ -12519,8 +12185,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "335": {
           "cur": {
@@ -12556,8 +12221,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "336": {
           "cur": {
@@ -12593,8 +12257,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "337": {
           "cur": {
@@ -12630,8 +12293,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "338": {
           "cur": {
@@ -12667,8 +12329,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "339": {
           "cur": {
@@ -12704,8 +12365,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "340": {
           "cur": {
@@ -12741,8 +12401,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "341": {
           "cur": {
@@ -12778,8 +12437,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "342": {
           "cur": {
@@ -12815,8 +12473,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "343": {
           "cur": {
@@ -12852,8 +12509,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "344": {
           "cur": {
@@ -12889,8 +12545,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "345": {
           "cur": {
@@ -12926,8 +12581,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "346": {
           "cur": {
@@ -12963,8 +12617,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "347": {
           "cur": {
@@ -13000,8 +12653,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "348": {
           "cur": {
@@ -13037,8 +12689,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "349": {
           "cur": {
@@ -13074,8 +12725,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "350": {
           "cur": {
@@ -13111,8 +12761,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "351": {
           "cur": {
@@ -13148,8 +12797,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "352": {
           "cur": {
@@ -13185,8 +12833,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "353": {
           "cur": {
@@ -13222,8 +12869,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "354": {
           "cur": {
@@ -13259,8 +12905,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "355": {
           "cur": {
@@ -13298,8 +12943,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "356": {
           "cur": {
@@ -13335,8 +12979,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "357": {
           "cur": {
@@ -13374,8 +13017,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "358": {
           "cur": {
@@ -13411,8 +13053,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "359": {
           "cur": {
@@ -13448,8 +13089,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "360": {
           "cur": {
@@ -13485,8 +13125,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "361": {
           "cur": {
@@ -13524,8 +13163,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "362": {
           "cur": {
@@ -13561,8 +13199,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "363": {
           "cur": {
@@ -13598,8 +13235,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "364": {
           "cur": {
@@ -13637,8 +13273,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "365": {
           "cur": {
@@ -13674,8 +13309,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "366": {
           "cur": {
@@ -13711,8 +13345,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "367": {
           "cur": {
@@ -13748,8 +13381,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "368": {
           "cur": {
@@ -13785,8 +13417,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "369": {
           "cur": {
@@ -13822,8 +13453,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "370": {
           "cur": {
@@ -13859,8 +13489,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "371": {
           "cur": {
@@ -13898,8 +13527,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "372": {
           "cur": {
@@ -13935,8 +13563,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "373": {
           "cur": {
@@ -13972,8 +13599,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "374": {
           "cur": {
@@ -14009,8 +13635,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "375": {
           "cur": {
@@ -14046,8 +13671,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "376": {
           "cur": {
@@ -14083,8 +13707,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "377": {
           "cur": {
@@ -14120,8 +13743,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "378": {
           "cur": {
@@ -14157,8 +13779,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "379": {
           "cur": {
@@ -14194,8 +13815,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "380": {
           "cur": {
@@ -14231,8 +13851,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "381": {
           "cur": {
@@ -14268,8 +13887,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "382": {
           "cur": {
@@ -14305,8 +13923,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "383": {
           "cur": {
@@ -14342,8 +13959,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "384": {
           "cur": {
@@ -14379,8 +13995,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "385": {
           "cur": {
@@ -14416,8 +14031,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "386": {
           "cur": {
@@ -14453,8 +14067,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "387": {
           "cur": {
@@ -14490,8 +14103,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "388": {
           "cur": {
@@ -14527,8 +14139,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "389": {
           "cur": {
@@ -14564,8 +14175,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "390": {
           "cur": {
@@ -14601,8 +14211,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "391": {
           "cur": {
@@ -14638,8 +14247,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "392": {
           "cur": {
@@ -14675,8 +14283,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "393": {
           "cur": {
@@ -14712,8 +14319,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "394": {
           "cur": {
@@ -14749,8 +14355,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "395": {
           "cur": {
@@ -14786,8 +14391,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "396": {
           "cur": {
@@ -14823,8 +14427,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "397": {
           "cur": {
@@ -14860,8 +14463,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "398": {
           "cur": {
@@ -14897,8 +14499,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "399": {
           "cur": {
@@ -14934,8 +14535,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "400": {
           "cur": {
@@ -14971,8 +14571,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "401": {
           "cur": {
@@ -15008,8 +14607,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "402": {
           "cur": {
@@ -15045,8 +14643,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "403": {
           "cur": {
@@ -15082,8 +14679,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "404": {
           "cur": {
@@ -15119,8 +14715,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "405": {
           "cur": {
@@ -15156,8 +14751,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "406": {
           "cur": {
@@ -15193,8 +14787,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "407": {
           "cur": {
@@ -15230,8 +14823,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "408": {
           "cur": {
@@ -15267,8 +14859,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "409": {
           "cur": {
@@ -15304,8 +14895,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "410": {
           "cur": {
@@ -15341,8 +14931,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "411": {
           "cur": {
@@ -15378,8 +14967,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "412": {
           "cur": {
@@ -15415,8 +15003,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "413": {
           "cur": {
@@ -15452,8 +15039,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "414": {
           "cur": {
@@ -15489,8 +15075,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "415": {
           "cur": {
@@ -15526,8 +15111,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "416": {
           "cur": {
@@ -15563,8 +15147,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "417": {
           "cur": {
@@ -15606,8 +15189,7 @@
             25,
             25,
             25
-          ],
-          "grandSvt": false
+          ]
         },
         "418": {
           "cur": {
@@ -15643,8 +15225,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "419": {
           "cur": {
@@ -15680,8 +15261,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "420": {
           "cur": {
@@ -15717,8 +15297,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "421": {
           "cur": {
@@ -15754,8 +15333,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "422": {
           "cur": {
@@ -15791,8 +15369,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "423": {
           "cur": {
@@ -15828,8 +15405,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "424": {
           "cur": {
@@ -15865,8 +15441,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "425": {
           "cur": {
@@ -15902,8 +15477,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "426": {
           "cur": {
@@ -15939,8 +15513,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "427": {
           "cur": {
@@ -15976,8 +15549,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "428": {
           "cur": {
@@ -16015,8 +15587,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "429": {
           "cur": {
@@ -16052,8 +15623,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "430": {
           "cur": {
@@ -16089,8 +15659,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "431": {
           "cur": {
@@ -16126,8 +15695,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "432": {
           "cur": {
@@ -16163,8 +15731,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "433": {
           "cur": {
@@ -16200,8 +15767,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "434": {
           "cur": {
@@ -16237,8 +15803,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "435": {
           "cur": {
@@ -16274,8 +15839,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "436": {
           "cur": {
@@ -16311,8 +15875,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "437": {
           "cur": {
@@ -16348,8 +15911,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "438": {
           "cur": {
@@ -16385,8 +15947,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "439": {
           "cur": {
@@ -16422,8 +15983,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "440": {
           "cur": {
@@ -16459,8 +16019,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "441": {
           "cur": {
@@ -16496,8 +16055,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         },
         "442": {
           "cur": {
@@ -16533,8 +16091,7 @@
             null,
             null
           ],
-          "cmdCardStrengthen": null,
-          "grandSvt": false
+          "cmdCardStrengthen": null
         }
       },
       "classBoards": {
@@ -16596,6 +16153,10 @@
           "enhancedSquares": []
         },
         "10001": {
+          "unlockedSquares": [],
+          "enhancedSquares": []
+        },
+        "10003": {
           "unlockedSquares": [],
           "enhancedSquares": []
         },
@@ -22552,7 +22113,7 @@
               "favorite": true,
               "ascension": 4,
               "skills": [
-                9,
+                10,
                 9,
                 9
               ],
@@ -47578,6 +47139,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71572": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80000": {
               "enabled": false,
               "rerunGrails": 0,
@@ -53765,6 +53343,23 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80555": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -55334,6 +54929,10 @@
               "unlockedSquares": [],
               "enhancedSquares": []
             },
+            "10003": {
+              "unlockedSquares": [],
+              "enhancedSquares": []
+            },
             "10007": {
               "unlockedSquares": [],
               "enhancedSquares": []
@@ -56596,7 +56195,7 @@
             },
             "52": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -57176,7 +56775,7 @@
             },
             "76": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -63161,7 +62760,7 @@
             },
             "322": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -63377,7 +62976,7 @@
             },
             "331": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -89741,7 +89340,7 @@
             },
             "52": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -90321,7 +89920,7 @@
             },
             "76": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -96162,7 +95761,7 @@
             },
             "322": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
@@ -96378,7 +95977,7 @@
             },
             "331": {
               "favorite": false,
-              "ascension": 0,
+              "ascension": 4,
               "skills": [
                 1,
                 1,
