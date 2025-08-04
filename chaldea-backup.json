@@ -14393,7 +14393,7 @@
             ],
             "appendSkills": [
               0,
-              1,
+              10,
               0,
               0,
               0
@@ -14430,7 +14430,7 @@
             ],
             "appendSkills": [
               0,
-              0,
+              1,
               0,
               0,
               0
@@ -14496,7 +14496,7 @@
         "388": {
           "cur": {
             "favorite": true,
-            "ascension": 0,
+            "ascension": 4,
             "skills": [
               1,
               1,
@@ -14555,7 +14555,7 @@
             "fouHp3": 0,
             "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 0
+            "npLv": 5
           },
           "priority": 2,
           "bond": 0,
@@ -16539,6 +16539,43 @@
           "grandSvt": false
         },
         "443": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null,
+          "grandSvt": false
+        },
+        "444": {
           "cur": {
             "favorite": false,
             "ascension": 0,
@@ -26046,7 +26083,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -27431,9 +27468,67 @@
               "fouAtk3": 20,
               "bondLimit": 10,
               "npLv": 1
+            },
+            "444": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
             }
           },
           "limitEvents": {
+            "-9281728": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-9272163": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-9260154": {
               "enabled": false,
               "rerunGrails": 0,
@@ -37362,6 +37457,40 @@
               "extraItems": {},
               "customItems": {}
             },
+            "20256": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "20258": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "30002": {
               "enabled": false,
               "rerunGrails": 0,
@@ -38230,6 +38359,23 @@
               "customItems": {}
             },
             "30058": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "30059": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -47664,6 +47810,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71570": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "71571": {
               "enabled": false,
               "rerunGrails": 0,
@@ -47750,6 +47913,57 @@
               "customItems": {}
             },
             "71576": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71577": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71578": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71580": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -53987,6 +54201,227 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80556": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80557": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80560": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80561": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80562": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80563": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80564": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80565": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80566": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80567": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80568": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80569": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80570": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -54842,6 +55277,13 @@
               ]
             },
             "202507": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
+            },
+            "202508": {
               "counts": [
                 0,
                 0,
@@ -64917,7 +65359,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                10,
                 0,
                 0,
                 0
@@ -64941,7 +65383,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -97896,7 +98338,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                10,
                 0,
                 0,
                 0
@@ -97920,7 +98362,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -120569,8 +121011,8 @@
       "sameEventPlan": false,
       "curSvtPlanNo": 0,
       "items": {
-        "-1": 1729,
-        "1": 566204181,
+        "-1": 1731,
+        "1": 509604181,
         "2": 1727,
         "3": 22974,
         "16": 245,
@@ -120593,97 +121035,97 @@
         "5001": 55,
         "5002": 58,
         "5003": 155,
-        "6001": 631,
+        "6001": 633,
         "6002": 773,
-        "6003": 712,
-        "6004": 691,
-        "6005": 416,
+        "6003": 715,
+        "6004": 692,
+        "6005": 399,
         "6006": 667,
         "6007": 839,
-        "6101": 694,
-        "6102": 943,
+        "6101": 695,
+        "6102": 945,
         "6103": 641,
-        "6104": 680,
-        "6105": 776,
-        "6106": 767,
-        "6107": 931,
-        "6201": 276,
+        "6104": 682,
+        "6105": 760,
+        "6106": 780,
+        "6107": 934,
+        "6201": 279,
         "6202": 348,
-        "6203": 284,
+        "6203": 285,
         "6204": 125,
-        "6205": 80,
-        "6206": 406,
+        "6205": 63,
+        "6206": 421,
         "6207": 281,
-        "6501": 103,
-        "6502": -17,
-        "6503": 654,
-        "6505": 581,
-        "6506": 66,
-        "6507": 98,
-        "6508": 568,
-        "6509": 307,
-        "6510": 508,
-        "6511": 462,
-        "6512": 541,
-        "6513": 436,
-        "6514": 287,
-        "6515": 220,
-        "6516": 472,
+        "6501": 119,
+        "6502": 2,
+        "6503": 664,
+        "6505": 583,
+        "6506": 84,
+        "6507": 92,
+        "6508": 570,
+        "6509": 318,
+        "6510": 511,
+        "6511": 474,
+        "6512": 552,
+        "6513": 440,
+        "6514": 288,
+        "6515": 222,
+        "6516": 473,
         "6517": 157,
-        "6518": 178,
+        "6518": 181,
         "6519": 280,
-        "6520": 300,
-        "6521": 218,
-        "6522": 786,
-        "6523": 234,
-        "6524": 303,
-        "6525": 422,
-        "6526": 197,
-        "6527": 930,
-        "6528": 315,
-        "6529": 145,
-        "6530": 574,
-        "6531": 441,
-        "6532": 168,
+        "6520": 299,
+        "6521": 220,
+        "6522": 778,
+        "6523": 235,
+        "6524": 336,
+        "6525": 425,
+        "6526": 249,
+        "6527": 931,
+        "6528": 309,
+        "6529": 140,
+        "6530": 582,
+        "6531": 444,
+        "6532": 171,
         "6533": 581,
         "6534": 443,
-        "6535": 189,
+        "6535": 190,
         "6536": 462,
         "6537": 362,
-        "6538": 441,
+        "6538": 453,
         "6539": 534,
-        "6540": 389,
-        "6541": 377,
-        "6542": 253,
-        "6543": 248,
-        "6544": 432,
-        "6545": 307,
-        "6546": 170,
+        "6540": 392,
+        "6541": 378,
+        "6542": 256,
+        "6543": 251,
+        "6544": 435,
+        "6545": 308,
+        "6546": 173,
         "6547": 222,
-        "6548": 108,
-        "6549": 29,
-        "6550": 197,
-        "6551": 456,
-        "6552": 455,
-        "6553": 16,
-        "6554": 34,
+        "6548": 112,
+        "6549": 41,
+        "6550": 193,
+        "6551": 457,
+        "6552": 464,
+        "6553": 18,
+        "6554": 82,
         "6555": 33,
-        "6556": 27,
-        "6999": 136,
-        "7001": 415,
-        "7002": 510,
-        "7003": 531,
-        "7004": 469,
-        "7005": 712,
-        "7006": 462,
-        "7007": 773,
-        "7101": 779,
-        "7102": 743,
-        "7103": 869,
-        "7104": 569,
-        "7105": 796,
-        "7106": 662,
-        "7107": 842,
+        "6556": 3,
+        "6999": 138,
+        "7001": 416,
+        "7002": 511,
+        "7003": 537,
+        "7004": 474,
+        "7005": 714,
+        "7006": 463,
+        "7007": 776,
+        "7101": 790,
+        "7102": 745,
+        "7103": 870,
+        "7104": 576,
+        "7105": 802,
+        "7106": 683,
+        "7107": 850,
         "7998": 1,
         "7999": 20,
         "9570300": -160,
@@ -120877,6 +121319,7 @@
         "70360001": 115,
         "70380001": 125,
         "70430001": 85,
+        "70470001": -120,
         "80010001": 120,
         "90070001": 80,
         "90080001": 60,
@@ -133261,6 +133704,317 @@
               ]
             },
             "actions": [],
+            "isCritTeam": false
+          },
+          {
+            "minBuild": 933,
+            "appBuild": 982,
+            "quest": {
+              "id": 94088111,
+              "phase": 1,
+              "enemyHash": "1_0544_d101244"
+            },
+            "options": {
+              "mightyChain": true,
+              "disableEvent": false,
+              "pointBuffs": {
+                "8044206": 80442060,
+                "8044202": 80442020
+              },
+              "simulateAi": false,
+              "enemyRateUp": null
+            },
+            "team": {
+              "name": null,
+              "mysticCode": {
+                "mysticCodeId": null,
+                "level": 0
+              },
+              "onFieldSvts": [
+                {
+                  "svtId": 505300,
+                  "limitCount": 4,
+                  "skillIds": [
+                    2238550,
+                    2239550,
+                    2240550
+                  ],
+                  "skillLvs": [
+                    10,
+                    10,
+                    10
+                  ],
+                  "appendLvs": [
+                    0,
+                    10,
+                    0,
+                    0,
+                    0
+                  ],
+                  "tdId": 505301,
+                  "tdLv": 2,
+                  "lv": 90,
+                  "atkFou": 1000,
+                  "hpFou": 1000,
+                  "ceId": 9407230,
+                  "ceLimitBreak": false,
+                  "ceLv": 1,
+                  "equip1": {
+                    "id": 9407230,
+                    "limitBreak": false,
+                    "lv": 1
+                  },
+                  "supportType": "none",
+                  "grandSvt": false
+                },
+                {
+                  "svtId": 704700,
+                  "limitCount": 4,
+                  "skillIds": [
+                    2248650,
+                    2249450,
+                    2250550
+                  ],
+                  "skillLvs": [
+                    10,
+                    10,
+                    10
+                  ],
+                  "appendLvs": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                  ],
+                  "tdId": 704701,
+                  "tdLv": 2,
+                  "lv": 90,
+                  "atkFou": 1000,
+                  "hpFou": 1000,
+                  "ceId": 9407290,
+                  "ceLimitBreak": true,
+                  "ceLv": 15,
+                  "equip1": {
+                    "id": 9407290,
+                    "limitBreak": true,
+                    "lv": 15
+                  },
+                  "supportType": "none",
+                  "grandSvt": false
+                },
+                {
+                  "svtId": 504500,
+                  "limitCount": 4,
+                  "skillIds": [
+                    761450,
+                    762550,
+                    763650
+                  ],
+                  "skillLvs": [
+                    10,
+                    10,
+                    10
+                  ],
+                  "tdId": 504501,
+                  "tdLv": 1,
+                  "lv": 90,
+                  "atkFou": 0,
+                  "hpFou": 0,
+                  "ceLimitBreak": true,
+                  "ceLv": 15,
+                  "equip1": {
+                    "id": null,
+                    "limitBreak": true,
+                    "lv": 15
+                  },
+                  "supportType": "friend",
+                  "grandSvt": false
+                }
+              ],
+              "backupSvts": [
+                null,
+                null,
+                null
+              ]
+            },
+            "delegate": {},
+            "actions": [
+              {
+                "type": "skill",
+                "svt": 0,
+                "skill": 0,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 0,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 0,
+                "skill": 1,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 0,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 2,
+                "skill": 0,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 0,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "attack",
+                "attacks": [
+                  {
+                    "svt": 0,
+                    "card": -1,
+                    "isTD": true,
+                    "critical": false,
+                    "cardType": "buster"
+                  },
+                  {
+                    "svt": 2,
+                    "card": 0,
+                    "isTD": false,
+                    "critical": false,
+                    "cardType": "quick"
+                  }
+                ],
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 0,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 1,
+                "skill": 2,
+                "options": {
+                  "playerTarget": 1,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 2,
+                "skill": 2,
+                "options": {
+                  "playerTarget": 1,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "attack",
+                "attacks": [
+                  {
+                    "svt": 1,
+                    "card": -1,
+                    "isTD": true,
+                    "critical": false,
+                    "cardType": "arts"
+                  }
+                ],
+                "options": {
+                  "playerTarget": 1,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 0,
+                "skill": 2,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 1,
+                "skill": 0,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 1,
+                "skill": 1,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "skill",
+                "svt": 2,
+                "skill": 1,
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              },
+              {
+                "type": "attack",
+                "attacks": [
+                  {
+                    "svt": 0,
+                    "card": -1,
+                    "isTD": true,
+                    "critical": false,
+                    "cardType": "buster"
+                  },
+                  {
+                    "svt": 1,
+                    "card": -1,
+                    "isTD": true,
+                    "critical": false,
+                    "cardType": "arts"
+                  },
+                  {
+                    "svt": 2,
+                    "card": 0,
+                    "isTD": false,
+                    "critical": false,
+                    "cardType": "quick"
+                  }
+                ],
+                "options": {
+                  "playerTarget": 0,
+                  "enemyTarget": 1,
+                  "random": 900,
+                  "threshold": 800
+                }
+              }
+            ],
             "isCritTeam": false
           }
         ]
