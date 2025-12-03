@@ -2863,9 +2863,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              1,
-              1,
-              1
+              9,
+              9,
+              10
             ],
             "appendSkills": [
               0,
@@ -7749,7 +7749,7 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
+              9,
               9,
               9
             ],
@@ -7862,9 +7862,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              7,
-              7,
-              7
+              8,
+              8,
+              9
             ],
             "appendSkills": [
               0,
@@ -8200,7 +8200,7 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              6,
+              9,
               10,
               10
             ],
@@ -8351,9 +8351,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              1,
-              6,
-              6
+              9,
+              9,
+              9
             ],
             "appendSkills": [
               0,
@@ -8425,9 +8425,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              5,
+              5,
+              5
             ],
             "appendSkills": [
               0,
@@ -8499,9 +8499,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              6,
-              6,
-              6
+              9,
+              10,
+              9
             ],
             "appendSkills": [
               0,
@@ -9098,7 +9098,7 @@
             "skills": [
               9,
               9,
-              6
+              9
             ],
             "appendSkills": [
               0,
@@ -9397,9 +9397,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              9,
+              9
             ],
             "appendSkills": [
               0,
@@ -9512,9 +9512,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              9,
+              9
             ],
             "appendSkills": [
               1,
@@ -9549,9 +9549,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              6,
+              6,
+              6
             ],
             "appendSkills": [
               1,
@@ -9586,9 +9586,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              10,
+              9
             ],
             "appendSkills": [
               1,
@@ -9660,7 +9660,7 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
+              5,
               9,
               9
             ],
@@ -9697,9 +9697,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              9,
+              9
             ],
             "appendSkills": [
               1,
@@ -9734,9 +9734,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              6,
-              6,
-              7
+              9,
+              9,
+              10
             ],
             "appendSkills": [
               0,
@@ -10147,7 +10147,7 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              6,
+              8,
               9,
               9
             ],
@@ -10593,9 +10593,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              9,
+              9
             ],
             "appendSkills": [
               0,
@@ -10611,7 +10611,7 @@
             "fouHp3": 20,
             "fouAtk3": 20,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 5
           },
           "priority": 1,
           "bond": 0,
@@ -10706,7 +10706,7 @@
             "skills": [
               6,
               6,
-              6
+              10
             ],
             "appendSkills": [
               0,
@@ -10741,9 +10741,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              4,
-              4,
-              4
+              9,
+              10,
+              9
             ],
             "appendSkills": [
               0,
@@ -11828,7 +11828,7 @@
             "skills": [
               10,
               10,
-              9
+              10
             ],
             "appendSkills": [
               0,
@@ -11837,7 +11837,10 @@
               0,
               0
             ],
-            "costumes": {},
+            "costumes": {
+              "2800130": 0,
+              "2800140": 0
+            },
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
@@ -14352,9 +14355,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
-              8,
+              9,
               10,
-              8
+              9
             ],
             "appendSkills": [
               0,
@@ -17133,6 +17136,43 @@
           ],
           "cmdCardStrengthen": null,
           "grandSvt": false
+        },
+        "459": {
+          "cur": {
+            "favorite": false,
+            "ascension": 0,
+            "skills": [
+              1,
+              1,
+              1
+            ],
+            "appendSkills": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "costumes": {},
+            "grail": 0,
+            "fouHp": 0,
+            "fouAtk": 0,
+            "fouHp3": 20,
+            "fouAtk3": 20,
+            "bondLimit": 10,
+            "npLv": 1
+          },
+          "priority": 1,
+          "bond": 0,
+          "equipCmdCodes": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "cmdCardStrengthen": null,
+          "grandSvt": false
         }
       },
       "classBoards": {
@@ -17256,6 +17296,10 @@
           "enhancedSquares": []
         },
         "10004": {
+          "unlockedSquares": [],
+          "enhancedSquares": []
+        },
+        "10005": {
           "unlockedSquares": [],
           "enhancedSquares": []
         },
@@ -17390,16 +17434,16 @@
               "favorite": true,
               "ascension": 4,
               "skills": [
-                9,
+                10,
                 9,
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17469,11 +17513,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17517,11 +17561,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17611,15 +17655,15 @@
               "ascension": 4,
               "skills": [
                 9,
-                9,
+                10,
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {
                 "200330": 1
@@ -17665,11 +17709,11 @@
                 9
               ],
               "appendSkills": [
-                0,
+                1,
                 1,
                 9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {
                 "201230": 1
@@ -17715,11 +17759,11 @@
                 9
               ],
               "appendSkills": [
+                1,
+                1,
                 9,
-                9,
-                9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17787,11 +17831,11 @@
                 9
               ],
               "appendSkills": [
-                0,
                 1,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17835,11 +17879,11 @@
                 9
               ],
               "appendSkills": [
-                0,
+                1,
                 1,
                 9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17859,11 +17903,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {
                 "400130": 1
@@ -17935,11 +17979,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -17961,9 +18005,9 @@
               "appendSkills": [
                 10,
                 10,
-                0,
-                0,
-                0
+                1,
+                1,
+                1
               ],
               "costumes": {
                 "401430": 1
@@ -17985,11 +18029,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
+                1,
+                1,
                 9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -19542,11 +19586,11 @@
                 10
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -22621,11 +22665,11 @@
                 10
               ],
               "appendSkills": [
-                0,
-                10,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -22768,11 +22812,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
+                1,
+                1,
                 9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -22812,7 +22856,7 @@
               "ascension": 4,
               "skills": [
                 9,
-                9,
+                10,
                 9
               ],
               "appendSkills": [
@@ -22962,11 +23006,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {
                 "900730": 1,
@@ -23205,11 +23249,11 @@
                 9
               ],
               "appendSkills": [
-                0,
+                1,
                 1,
                 9,
-                0,
-                0
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -23499,7 +23543,7 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
                 1,
@@ -23522,7 +23566,7 @@
               "ascension": 4,
               "skills": [
                 9,
-                9,
+                10,
                 9
               ],
               "appendSkills": [
@@ -23574,11 +23618,11 @@
                 9
               ],
               "appendSkills": [
-                0,
+                1,
                 10,
-                0,
-                0,
-                0
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 1,
@@ -23600,7 +23644,7 @@
               "appendSkills": [
                 1,
                 1,
-                1,
+                9,
                 1,
                 1
               ],
@@ -23619,14 +23663,14 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -23892,11 +23936,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -24182,11 +24226,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -24195,7 +24239,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 5
             },
             "284": {
               "favorite": true,
@@ -24251,7 +24295,7 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -24274,7 +24318,7 @@
               "ascension": 4,
               "skills": [
                 9,
-                9,
+                10,
                 9
               ],
               "appendSkills": [
@@ -24983,7 +25027,7 @@
               "skills": [
                 10,
                 10,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -24992,7 +25036,10 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2800130": 1,
+                "2800140": 1
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -27346,15 +27393,15 @@
               "ascension": 4,
               "skills": [
                 9,
-                9,
+                10,
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                1,
+                1,
+                1
               ],
               "costumes": {},
               "grail": 0,
@@ -27686,11 +27733,11 @@
                 9
               ],
               "appendSkills": [
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                1,
+                9,
+                1,
+                1
               ],
               "costumes": {
                 "305630": 1
@@ -28424,9 +28471,50 @@
               "fouAtk3": 0,
               "bondLimit": 10,
               "npLv": 5
+            },
+            "459": {
+              "favorite": false,
+              "ascension": 0,
+              "skills": [
+                1,
+                1,
+                1
+              ],
+              "appendSkills": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "costumes": {},
+              "grail": 0,
+              "fouHp": 0,
+              "fouAtk": 0,
+              "fouHp3": 20,
+              "fouAtk3": 20,
+              "bondLimit": 10,
+              "npLv": 1
             }
           },
           "limitEvents": {
+            "-9569787": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-9552978": {
               "enabled": false,
               "rerunGrails": 0,
@@ -39308,6 +39396,23 @@
               "customItems": {}
             },
             "20278": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "20281": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -50561,6 +50666,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71625": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "71628": {
               "enabled": false,
               "rerunGrails": 0,
@@ -50664,6 +50786,40 @@
               "customItems": {}
             },
             "71635": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71636": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71637": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -57361,6 +57517,57 @@
               "extraItems": {},
               "customItems": {}
             },
+            "80585": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80586": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80587": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80588": {
               "enabled": false,
               "rerunGrails": 0,
@@ -57430,6 +57637,23 @@
               "customItems": {}
             },
             "80595": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80596": {
               "enabled": false,
               "rerunGrails": 0,
               "shop": true,
@@ -57576,6 +57800,14 @@
               "fixedDrop": false,
               "questReward": false
             },
+            "406": {
+              "fixedDrop": false,
+              "questReward": false
+            },
+            "407": {
+              "fixedDrop": false,
+              "questReward": false
+            },
             "11000": {
               "fixedDrop": false,
               "questReward": false
@@ -57605,6 +57837,14 @@
               "questReward": false
             },
             "40501": {
+              "fixedDrop": false,
+              "questReward": false
+            },
+            "40601": {
+              "fixedDrop": false,
+              "questReward": false
+            },
+            "40701": {
               "fixedDrop": false,
               "questReward": false
             }
@@ -58333,6 +58573,13 @@
                 0,
                 0
               ]
+            },
+            "202512": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
             }
           },
           "classBoards": {
@@ -59054,6 +59301,10 @@
               "unlockedSquares": [],
               "enhancedSquares": []
             },
+            "10005": {
+              "unlockedSquares": [],
+              "enhancedSquares": []
+            },
             "10006": {
               "unlockedSquares": [],
               "enhancedSquares": []
@@ -59438,7 +59689,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -60910,9 +61161,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                9,
+                9,
+                10
               ],
               "appendSkills": [
                 0,
@@ -64093,7 +64344,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
+                9,
                 9,
                 9
               ],
@@ -64167,9 +64418,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                7,
-                7,
-                7
+                8,
+                8,
+                9
               ],
               "appendSkills": [
                 0,
@@ -64388,7 +64639,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
+                9,
                 10,
                 10
               ],
@@ -64487,9 +64738,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                6
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -64535,9 +64786,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                5,
+                5,
+                5
               ],
               "appendSkills": [
                 0,
@@ -64583,9 +64834,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                6
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -64974,7 +65225,7 @@
               "skills": [
                 9,
                 9,
-                6
+                9
               ],
               "appendSkills": [
                 0,
@@ -65169,9 +65420,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -65245,9 +65496,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 1,
@@ -65269,9 +65520,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                6,
+                6,
+                6
               ],
               "appendSkills": [
                 1,
@@ -65293,9 +65544,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 1,
@@ -65341,7 +65592,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
+                5,
                 9,
                 9
               ],
@@ -65365,9 +65616,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 1,
@@ -65389,9 +65640,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                7
+                9,
+                9,
+                10
               ],
               "appendSkills": [
                 0,
@@ -65659,7 +65910,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
+                8,
                 9,
                 9
               ],
@@ -65949,9 +66200,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -65967,7 +66218,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 5
             },
             "284": {
               "favorite": false,
@@ -66023,7 +66274,7 @@
               "skills": [
                 6,
                 6,
-                6
+                10
               ],
               "appendSkills": [
                 0,
@@ -66045,9 +66296,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -66755,7 +67006,7 @@
               "skills": [
                 10,
                 10,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -66764,7 +67015,10 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2800130": 0,
+                "2800140": 0
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -68395,9 +68649,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                8,
+                9,
                 10,
-                8
+                9
               ],
               "appendSkills": [
                 0,
@@ -68775,7 +69029,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "400": {
               "favorite": false,
@@ -92587,7 +92841,7 @@
               ],
               "appendSkills": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -94059,9 +94313,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                9,
+                9,
+                10
               ],
               "appendSkills": [
                 0,
@@ -97122,7 +97376,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
+                9,
                 9,
                 9
               ],
@@ -97196,9 +97450,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                7,
-                7,
-                7
+                8,
+                8,
+                9
               ],
               "appendSkills": [
                 0,
@@ -97417,7 +97671,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
+                9,
                 10,
                 10
               ],
@@ -97516,9 +97770,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                6
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -97564,9 +97818,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                5,
+                5,
+                5
               ],
               "appendSkills": [
                 0,
@@ -97612,9 +97866,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                6
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -97979,7 +98233,7 @@
               "skills": [
                 9,
                 9,
-                6
+                9
               ],
               "appendSkills": [
                 0,
@@ -98174,9 +98428,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -98250,9 +98504,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 1,
@@ -98274,9 +98528,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                6,
+                6,
+                6
               ],
               "appendSkills": [
                 1,
@@ -98298,9 +98552,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 1,
@@ -98346,7 +98600,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
+                5,
                 9,
                 9
               ],
@@ -98370,9 +98624,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 1,
@@ -98394,9 +98648,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
-                6,
-                7
+                9,
+                9,
+                10
               ],
               "appendSkills": [
                 0,
@@ -98664,7 +98918,7 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                6,
+                8,
                 9,
                 9
               ],
@@ -98954,9 +99208,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                9,
+                9
               ],
               "appendSkills": [
                 0,
@@ -98972,7 +99226,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 5
             },
             "284": {
               "favorite": false,
@@ -99028,7 +99282,7 @@
               "skills": [
                 6,
                 6,
-                6
+                10
               ],
               "appendSkills": [
                 0,
@@ -99050,9 +99304,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                4,
-                4,
-                4
+                9,
+                10,
+                9
               ],
               "appendSkills": [
                 0,
@@ -99760,7 +100014,7 @@
               "skills": [
                 10,
                 10,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -99769,7 +100023,10 @@
                 0,
                 0
               ],
-              "costumes": {},
+              "costumes": {
+                "2800130": 0,
+                "2800140": 0
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -101376,9 +101633,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
-                8,
+                9,
                 10,
-                8
+                9
               ],
               "appendSkills": [
                 0,
@@ -101756,7 +102013,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 1
+              "npLv": 2
             },
             "400": {
               "favorite": false,
@@ -124080,7 +124337,7 @@
       "curSvtPlanNo": 0,
       "items": {
         "-1": 1710,
-        "1": -1038355819,
+        "1": -1258605819,
         "2": 966,
         "3": 28226,
         "16": 416,
@@ -124110,64 +124367,64 @@
         "6005": 333,
         "6006": 523,
         "6007": 803,
-        "6101": 707,
-        "6102": 852,
-        "6103": 600,
+        "6101": 695,
+        "6102": 834,
+        "6103": 552,
         "6104": 500,
-        "6105": 677,
-        "6106": 679,
-        "6107": 915,
-        "6201": 178,
-        "6202": 193,
-        "6203": 196,
+        "6105": 671,
+        "6106": 667,
+        "6107": 861,
+        "6201": 160,
+        "6202": 164,
+        "6203": 127,
         "6204": 1,
         "6205": 6,
-        "6206": 364,
-        "6207": 288,
+        "6206": 346,
+        "6207": 198,
         "6501": 138,
         "6502": 5,
-        "6503": 566,
-        "6505": 647,
+        "6503": 362,
+        "6505": 614,
         "6506": 91,
-        "6507": 34,
-        "6508": 539,
+        "6507": 26,
+        "6508": 467,
         "6509": 313,
-        "6510": 470,
+        "6510": 467,
         "6511": 430,
-        "6512": 480,
+        "6512": 444,
         "6513": 581,
         "6514": 264,
         "6515": 105,
-        "6516": 420,
+        "6516": 161,
         "6517": 77,
         "6518": 175,
-        "6519": 194,
-        "6520": 232,
+        "6519": 179,
+        "6520": 223,
         "6521": 223,
         "6522": 395,
-        "6523": 217,
-        "6524": 280,
+        "6523": 209,
+        "6524": 208,
         "6525": 405,
-        "6526": 427,
-        "6527": 948,
+        "6526": 391,
+        "6527": 894,
         "6528": 284,
-        "6529": 96,
-        "6530": 535,
-        "6531": 445,
-        "6532": 107,
-        "6533": 549,
+        "6529": 84,
+        "6530": 352,
+        "6531": 424,
+        "6532": 59,
+        "6533": 297,
         "6534": 33,
-        "6535": 250,
-        "6536": 436,
-        "6537": 314,
+        "6535": 214,
+        "6536": 340,
+        "6537": 290,
         "6538": 267,
         "6539": 388,
         "6540": 352,
-        "6541": 180,
-        "6542": 232,
-        "6543": 175,
+        "6541": 120,
+        "6542": 220,
+        "6543": 115,
         "6544": 325,
-        "6545": 153,
+        "6545": 97,
         "6546": 162,
         "6547": 148,
         "6548": 73,
@@ -124177,9 +124434,9 @@
         "6552": 485,
         "6553": 45,
         "6554": 11,
-        "6555": 4,
+        "6555": -140,
         "6556": 48,
-        "6999": 160,
+        "6999": 156,
         "7001": 437,
         "7002": 556,
         "7003": 558,
@@ -136973,6 +137230,11 @@
           "limitCount": 0
         },
         "2508": {
+          "status": 0,
+          "lv": 1,
+          "limitCount": 0
+        },
+        "2509": {
           "status": 0,
           "lv": 1,
           "limitCount": 0
