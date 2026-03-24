@@ -3994,7 +3994,7 @@
             "skills": [
               9,
               9,
-              9
+              10
             ],
             "appendSkills": [
               0,
@@ -6820,11 +6820,11 @@
         "182": {
           "cur": {
             "favorite": true,
-            "ascension": 0,
+            "ascension": 4,
             "skills": [
-              4,
-              1,
-              1
+              5,
+              5,
+              5
             ],
             "appendSkills": [
               0,
@@ -6840,7 +6840,7 @@
             "fouHp3": 0,
             "fouAtk3": 0,
             "bondLimit": 10,
-            "npLv": 1
+            "npLv": 5
           },
           "priority": 1,
           "bond": 0,
@@ -14986,9 +14986,9 @@
             "favorite": true,
             "ascension": 4,
             "skills": [
+              6,
               5,
-              5,
-              5
+              6
             ],
             "appendSkills": [
               0,
@@ -20182,12 +20182,12 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
                 0,
                 0,
-                0,
+                9,
                 0,
                 0
               ],
@@ -40281,6 +40281,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "20289": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "30002": {
               "enabled": false,
               "rerunGrails": 0,
@@ -52113,6 +52130,23 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71664": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80000": {
               "enabled": false,
               "rerunGrails": 0,
@@ -59116,6 +59150,23 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80606": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -61525,7 +61576,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 2
+              "npLv": 4
             },
             "30": {
               "favorite": false,
@@ -63382,7 +63433,7 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -68184,7 +68235,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 4
+              "npLv": 5
             },
             "304": {
               "favorite": false,
@@ -70539,9 +70590,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
+                6,
                 5,
-                5,
-                5
+                6
               ],
               "appendSkills": [
                 0,
@@ -94677,7 +94728,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 2
+              "npLv": 4
             },
             "30": {
               "favorite": false,
@@ -96510,7 +96561,7 @@
               "skills": [
                 9,
                 9,
-                9
+                10
               ],
               "appendSkills": [
                 0,
@@ -101192,7 +101243,7 @@
               "fouHp3": 20,
               "fouAtk3": 20,
               "bondLimit": 10,
-              "npLv": 4
+              "npLv": 5
             },
             "304": {
               "favorite": false,
@@ -103523,9 +103574,9 @@
               "favorite": false,
               "ascension": 4,
               "skills": [
+                6,
                 5,
-                5,
-                5
+                6
               ],
               "appendSkills": [
                 0,
@@ -125817,7 +125868,7 @@
       "curSvtPlanNo": 0,
       "items": {
         "-1": 1710,
-        "1": 1775980041,
+        "1": 1747780041,
         "2": 966,
         "3": 28226,
         "16": 416,
@@ -125843,26 +125894,26 @@
         "6001": 857,
         "6002": 1064,
         "6003": 1083,
-        "6004": 876,
+        "6004": 848,
         "6005": 761,
         "6006": 908,
         "6007": 1122,
         "6101": 889,
         "6102": 1106,
         "6103": 896,
-        "6104": 747,
+        "6104": 709,
         "6105": 1018,
         "6106": 939,
         "6107": 1199,
         "6201": 103,
         "6202": 195,
         "6203": 191,
-        "6204": 73,
+        "6204": 65,
         "6205": 110,
         "6206": 273,
         "6207": 296,
         "6501": 134,
-        "6502": 245,
+        "6502": 225,
         "6503": 80,
         "6505": 43,
         "6506": 65,
@@ -125885,7 +125936,7 @@
         "6523": 216,
         "6524": 229,
         "6525": 522,
-        "6526": 707,
+        "6526": 695,
         "6527": 478,
         "6528": 207,
         "6529": 110,
@@ -125916,7 +125967,7 @@
         "6554": 76,
         "6555": 131,
         "6556": 183,
-        "6999": 171,
+        "6999": 170,
         "7001": 431,
         "7002": 584,
         "7003": 581,
